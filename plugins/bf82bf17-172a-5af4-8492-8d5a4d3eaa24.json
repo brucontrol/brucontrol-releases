@@ -1,0 +1,16 @@
+{
+  "name": "Markdown Widget",
+  "author": "BruControl",
+  "description": "Displays rich markdown content with inline view and edit modes.",
+  "repo": "owner/plugin-library",
+  "path": "plugins/markdown-widget",
+  "version": "1.0.0",
+  "commitHash": "eaa95a0faff5c785e448bc2c2fd26b8e114d34dc",
+  "official": true,
+  "tags": [
+    "markdown",
+    "text",
+    "documentation"
+  ],
+  "id": "bf82bf17-172a-5af4-8492-8d5a4d3eaa24"
+}

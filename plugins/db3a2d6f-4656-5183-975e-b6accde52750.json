@@ -1,0 +1,17 @@
+{
+  "name": "Liquid Tube",
+  "author": "BruControl",
+  "description": "Animated liquid tube with draggable routing, flow, and bubbles.",
+  "repo": "owner/plugin-library",
+  "path": "plugins/liquid-tube",
+  "version": "1.0.0",
+  "commitHash": "eaa95a0faff5c785e448bc2c2fd26b8e114d34dc",
+  "official": true,
+  "tags": [
+    "liquid",
+    "tube",
+    "animation",
+    "brewery"
+  ],
+  "id": "db3a2d6f-4656-5183-975e-b6accde52750"
+}
