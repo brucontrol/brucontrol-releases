@@ -1,0 +1,41 @@
+name: Update Firmware Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'firmware/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'firmware/**'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate firmware.json
+        run: node scripts/validate-and-index-firmware.mjs
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet firmware.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push index
+        if: github.ref == 'refs/heads/main' && steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add firmware.json
+          git commit -m "chore: regenerate firmware index"
+          git push
