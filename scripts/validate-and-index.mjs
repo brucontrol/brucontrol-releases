@@ -82,6 +82,7 @@ async function main() {
       name: manifest.name,
       version: manifest.version,
       official: manifest.official === true,
+      beta: manifest.beta === true,
       tags: Array.isArray(manifest.tags) ? manifest.tags : [],
     });
   }
