@@ -1,4 +1,14 @@
 {
-  "lastUpdated": "2026-03-02T13:07:40.229Z",
-  "plugins": []
+  "lastUpdated": "2026-03-02T13:08:10.412Z",
+  "plugins": [
+    {
+      "id": "dd27a25a-3d31-5e2a-8672-ce13fe847030",
+      "name": "Example Widget",
+      "version": "0.1.0",
+      "official": false,
+      "tags": [
+        "example"
+      ]
+    }
+  ]
 }
