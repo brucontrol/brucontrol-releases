@@ -1,0 +1,13 @@
+{
+  "id": "4b066e32-006a-59d8-a1f6-f4dcb07c680d",
+  "name": "Counter - Card",
+  "author": "BruControl",
+  "description": "Built-in counter widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/counter",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

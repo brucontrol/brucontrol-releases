@@ -1,0 +1,13 @@
+{
+  "id": "6f880128-c48e-5f2f-b49a-4be6b120ee7d",
+  "name": "stateful - Card",
+  "author": "BruControl",
+  "description": "Built-in stateful element widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/stateful",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

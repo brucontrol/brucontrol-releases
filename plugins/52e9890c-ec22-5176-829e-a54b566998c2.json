@@ -1,0 +1,13 @@
+{
+  "id": "52e9890c-ec22-5176-829e-a54b566998c2",
+  "name": "Timer - Card",
+  "author": "BruControl",
+  "description": "Built-in timer widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/timer",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

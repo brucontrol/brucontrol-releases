@@ -1,0 +1,13 @@
+{
+  "id": "753c2037-ff90-526e-b38a-5c97a639d161",
+  "name": "Alarm - Card",
+  "author": "BruControl",
+  "description": "Built-in alarm widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/alarm",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bbb1ce48-e2c5-5922-9766-370298dc2795",
+  "name": "OW Temperature - Card",
+  "author": "BruControl",
+  "description": "Built-in one-wire temperature widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/ow-temp",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

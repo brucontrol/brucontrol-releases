@@ -1,0 +1,13 @@
+{
+  "id": "a7b562eb-d4dc-53df-ae3f-257f7deed093",
+  "name": "Selector (Rotary Dial) - Card",
+  "author": "BruControl",
+  "description": "Rotary dial selector for numeric global variables.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/selector-rotary",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

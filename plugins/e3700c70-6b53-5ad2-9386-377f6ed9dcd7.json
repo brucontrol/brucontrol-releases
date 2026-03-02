@@ -1,0 +1,13 @@
+{
+  "id": "e3700c70-6b53-5ad2-9386-377f6ed9dcd7",
+  "name": "Hysteresis - Card",
+  "author": "BruControl",
+  "description": "Built-in hysteresis widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/hysteresis",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

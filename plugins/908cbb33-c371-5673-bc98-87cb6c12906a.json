@@ -1,0 +1,13 @@
+{
+  "id": "908cbb33-c371-5673-bc98-87cb6c12906a",
+  "name": "Global Variable Boolean - Card",
+  "author": "BruControl",
+  "description": "Editor-only starter for global variable (Boolean) templates.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/gv-bool",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "74c116e1-8097-59a1-939b-b520d2c3bd73",
+  "name": "Toggle Switch - Card",
+  "author": "BruControl",
+  "description": "Built-in toggle switch widget (matches widget editor default).",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/toggle-switch",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

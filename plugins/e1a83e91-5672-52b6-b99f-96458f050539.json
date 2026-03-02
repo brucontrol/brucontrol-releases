@@ -1,0 +1,13 @@
+{
+  "id": "e1a83e91-5672-52b6-b99f-96458f050539",
+  "name": "Generic Widget - Card",
+  "author": "BruControl",
+  "description": "Built-in default widget for generic elements. Shows the element name.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/generic",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

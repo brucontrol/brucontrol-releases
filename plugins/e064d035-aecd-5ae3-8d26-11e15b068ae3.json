@@ -1,0 +1,13 @@
+{
+  "id": "e064d035-aecd-5ae3-8d26-11e15b068ae3",
+  "name": "Analog Input - Card",
+  "author": "BruControl",
+  "description": "Built-in analog input widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/analog-input",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

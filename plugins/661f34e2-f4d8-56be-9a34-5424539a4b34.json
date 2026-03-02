@@ -1,0 +1,13 @@
+{
+  "id": "661f34e2-f4d8-56be-9a34-5424539a4b34",
+  "name": "Digital Input - Card",
+  "author": "BruControl",
+  "description": "Built-in digital input widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/digital-input",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

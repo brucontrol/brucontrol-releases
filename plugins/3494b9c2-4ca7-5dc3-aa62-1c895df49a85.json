@@ -1,0 +1,13 @@
+{
+  "id": "3494b9c2-4ca7-5dc3-aa62-1c895df49a85",
+  "name": "PID - Card",
+  "author": "BruControl",
+  "description": "Built-in PID widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/pid",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

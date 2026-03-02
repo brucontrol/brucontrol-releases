@@ -1,0 +1,13 @@
+{
+  "id": "fc5b84fd-cfe3-56dd-8a43-e11099af25c6",
+  "name": "SPI Sensor - Card",
+  "author": "BruControl",
+  "description": "Built-in SPI sensor widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/spi-sensor",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

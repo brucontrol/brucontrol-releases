@@ -1,0 +1,13 @@
+{
+  "id": "613ac752-4763-5955-a86a-9d2ec59ac9bb",
+  "name": "Deadband - Card",
+  "author": "BruControl",
+  "description": "Built-in deadband widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/deadband",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "8fefd25a-a76c-5b14-8462-e8a9d8f2ad95",
+  "name": "Chart - Card",
+  "author": "BruControl",
+  "description": "Built-in chart widget template with history, live streaming, and oscilloscope mode.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/chart",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "53c4dc85-394f-597d-a11b-307019a7c786",
+  "name": "Script Element - Card",
+  "author": "BruControl",
+  "description": "Built-in script element widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "plugins/script",
+  "version": "1.0.0",
+  "commitHash": "4a9feb9885eace6157b3efeaf6abf727fbbe1c6b",
+  "official": true,
+  "beta": false,
+  "tags": []
+}
