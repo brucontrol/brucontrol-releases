@@ -2,7 +2,7 @@
   "name": "Selector (Rotary Dial)",
   "author": "BruControl",
   "description": "Rotary dial selector for numeric global variables.",
-  "repo": "owner/plugin-library",
+  "repo": "brucontrol/plugin-library",
   "path": "plugins/selector-rotary",
   "version": "1.0.0",
   "commitHash": "eaa95a0faff5c785e448bc2c2fd26b8e114d34dc",

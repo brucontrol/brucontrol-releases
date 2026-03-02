@@ -2,7 +2,7 @@
   "name": "Example Widget",
   "author": "BruControl",
   "description": "Placeholder for testing the registry workflow.",
-  "repo": "owner/plugin-library",
+  "repo": "brucontrol/plugin-library",
   "path": "plugins/example-widget",
   "version": "0.1.0",
   "commitHash": "0000000000000000000000000000000000000000",
