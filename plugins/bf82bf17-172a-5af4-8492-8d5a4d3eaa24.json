@@ -5,7 +5,7 @@
   "repo": "brucontrol/plugin-library",
   "path": "plugins/markdown-widget",
   "version": "1.0.0",
-  "commitHash": "eaa95a0faff5c785e448bc2c2fd26b8e114d34dc",
+  "commitHash": "e584d86b2b18df36ae6709160547bb4192d12d20",
   "official": true,
   "tags": [
     "markdown",
