@@ -1,0 +1,20 @@
+{
+  "lastUpdated": "2026-03-02T00:00:00.000Z",
+  "versions": [
+    {
+      "version": "46.0",
+      "files": [
+        "Arduino101.brumc",
+        "ArduinoDue.brumc",
+        "ArduinoMEGA.brumc",
+        "ArduinoUNO.brumc",
+        "ArduinoZero.brumc",
+        "ESP32.brumc",
+        "ESP8266.brumc",
+        "FeatherM0.brumc",
+        "GrandCentralM4.brumc",
+        "M5_Stack.brumc"
+      ]
+    }
+  ]
+}
