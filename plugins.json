@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T21:43:56.306Z",
+  "lastUpdated": "2026-03-02T23:18:06.549Z",
   "plugins": [
     {
       "id": "753c2037-ff90-526e-b38a-5c97a639d161",
@@ -132,6 +132,14 @@
     {
       "id": "db3a2d6f-4656-5183-975e-b6accde52750",
       "name": "Liquid Tube",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "eff3f4b0-2156-5fa9-9b93-ba9c63cf45d3",
+      "name": "Liquid Tube 2",
       "version": "1.0.0",
       "official": true,
       "beta": false,
