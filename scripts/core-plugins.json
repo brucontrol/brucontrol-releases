@@ -1,0 +1,31 @@
+{
+  "_comment": "Plugin IDs that are core (force-installed by sync, cannot be uninstalled). Add IDs here when adding new core widgets.",
+  "corePluginIds": [
+    "753c2037-ff90-526e-b38a-5c97a639d161",
+    "e064d035-aecd-5ae3-8d26-11e15b068ae3",
+    "8c5fdf1c-f5a4-5731-a96b-1abb7d23ef71",
+    "8fefd25a-a76c-5b14-8462-e8a9d8f2ad95",
+    "4b066e32-006a-59d8-a1f6-f4dcb07c680d",
+    "613ac752-4763-5955-a86a-9d2ec59ac9bb",
+    "661f34e2-f4d8-56be-9a34-5424539a4b34",
+    "2514d367-3f56-545b-a020-12919a3b084f",
+    "cb1c190b-6b49-5cdf-a38d-8521f2578894",
+    "e1a83e91-5672-52b6-b99f-96458f050539",
+    "0ba10381-7f62-5a3a-a238-38d1774a0c37",
+    "908cbb33-c371-5673-bc98-87cb6c12906a",
+    "c5d3e860-f70e-5ee7-adba-34c36d5ba4f4",
+    "e3700c70-6b53-5ad2-9386-377f6ed9dcd7",
+    "a4455f60-95e4-55ea-9b17-53f82f8662ae",
+    "bbb1ce48-e2c5-5922-9766-370298dc2795",
+    "3494b9c2-4ca7-5dc3-aa62-1c895df49a85",
+    "72460c83-e051-5f52-bacf-4b3dc6647a9c",
+    "e0737808-55b4-578e-b473-f00484cfcf1c",
+    "53c4dc85-394f-597d-a11b-307019a7c786",
+    "beae76af-ae4f-59d9-ad46-a21bf4b4ac67",
+    "a7b562eb-d4dc-53df-ae3f-257f7deed093",
+    "fc5b84fd-cfe3-56dd-8a43-e11099af25c6",
+    "6f880128-c48e-5f2f-b49a-4be6b120ee7d",
+    "52e9890c-ec22-5176-829e-a54b566998c2",
+    "74c116e1-8097-59a1-939b-b520d2c3bd73"
+  ]
+}

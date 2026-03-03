@@ -7,6 +7,7 @@ import { v5 } from 'uuid';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
 const pluginsDir = join(root, 'plugins');
+const scriptsDir = join(root, 'scripts');
 const NAMESPACE = '6ba7b810-9dad-11d1-80b4-00c04fd430c8';
 
 function normalizeName(name) {
@@ -21,7 +22,19 @@ function isValidUuid(s) {
 
 const REQUIRED = ['name', 'author', 'description', 'repo', 'path', 'version', 'commitHash'];
 
+async function loadCorePluginIds() {
+  try {
+    const path = join(scriptsDir, 'core-plugins.json');
+    const content = await readFile(path, 'utf8');
+    const data = JSON.parse(content);
+    return new Set(Array.isArray(data.corePluginIds) ? data.corePluginIds : []);
+  } catch {
+    return new Set();
+  }
+}
+
 async function main() {
+  const corePluginIds = await loadCorePluginIds();
   const files = await readdir(pluginsDir);
   const manifestFiles = files.filter((f) => f.endsWith('.json'));
   const entries = [];
@@ -77,11 +90,18 @@ async function main() {
     }
     seenIds.add(manifest.id);
 
+    const isCore = corePluginIds.has(manifest.id);
+    if (manifest.core !== isCore) {
+      manifest.core = isCore;
+      await writeFile(filePath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
+    }
+
     entries.push({
       id: manifest.id,
       name: manifest.name,
       version: manifest.version,
       official: manifest.official === true,
+      core: isCore,
       beta: manifest.beta === true,
       tags: Array.isArray(manifest.tags) ? manifest.tags : [],
     });

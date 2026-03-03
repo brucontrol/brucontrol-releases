@@ -2,6 +2,9 @@
   "name": "registry-scripts",
   "private": true,
   "type": "module",
+  "scripts": {
+    "test": "node --test validate-and-index.test.mjs"
+  },
   "dependencies": {
     "uuid": "^11.0.3"
   }

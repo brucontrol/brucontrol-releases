@@ -9,5 +9,6 @@
   "commitHash": "f3e041456f821bd1daa78f4f98f66eb53a9db479",
   "official": true,
   "beta": false,
-  "tags": []
+  "tags": [],
+  "core": true
 }
