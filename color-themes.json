@@ -1,0 +1,61 @@
+{
+  "lastUpdated": "2026-03-03T13:08:24.684Z",
+  "colorThemes": [
+    {
+      "id": "29f71f1b-f81e-5364-a613-eefecd604fdd",
+      "name": "Cream Sand",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "1d6ab8a2-2d17-541c-9b44-bb57e446f670",
+      "name": "Inkwell",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "d911b983-474c-59f8-85b9-5109a0277e69",
+      "name": "Kitty Meow Meow",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "11668b33-5ef7-5add-abe0-475da30dd257",
+      "name": "Laurel Swamp",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "c51e9ece-ad7f-53b4-9dd4-27e4ff6431c8",
+      "name": "Neobrutal",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "9ee8bf39-05a5-52b7-914b-e04a6718beba",
+      "name": "Newsprint",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "f33f1ac2-0e20-52a5-8789-c948c793a96d",
+      "name": "VS Code Dark",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    }
+  ]
+}
