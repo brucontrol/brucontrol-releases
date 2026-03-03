@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T20:59:37.315Z",
+  "lastUpdated": "2026-03-03T21:52:30.910Z",
   "plugins": [
     {
       "id": "753c2037-ff90-526e-b38a-5c97a639d161",
@@ -241,6 +241,15 @@
       "version": "1.0.0",
       "official": true,
       "core": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "f73b6960-126b-58a3-bd44-a130e47e75fc",
+      "name": "Text to Speech",
+      "version": "1.0.0",
+      "official": true,
+      "core": false,
       "beta": false,
       "tags": []
     },
