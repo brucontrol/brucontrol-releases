@@ -1,0 +1,14 @@
+{
+  "id": "a64ba026-7833-492f-8893-672cf530ae76",
+  "name": "Button - Card",
+  "author": "BruControl",
+  "description": "Built-in button widget template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "widgets/button",
+  "version": "1.0.0",
+  "commitHash": "47314603ed51c4634da465a6cc817c51a95a6c36",
+  "official": true,
+  "beta": false,
+  "tags": [],
+  "core": true
+}
