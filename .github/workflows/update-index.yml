@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - 'plugins/*.json'
+      - 'color-themes/*.json'
   pull_request:
     branches: [main]
     paths:
       - 'plugins/*.json'
+      - 'color-themes/*.json'
 
 jobs:
   update:
@@ -29,20 +31,24 @@ jobs:
         run: npm ci
         working-directory: scripts
 
-      - name: Validate and generate index
+      - name: Validate and generate plugin index
         run: node validate-and-index.mjs
+        working-directory: scripts
+
+      - name: Validate and generate color theme index
+        run: node validate-and-index-color-themes.mjs
         working-directory: scripts
 
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet plugins.json || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet plugins.json color-themes.json 2>/dev/null || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push index
         if: github.ref == 'refs/heads/main' && steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add plugins.json plugins/
-          git commit -m "chore: regenerate plugin index"
+          git add plugins.json plugins/ color-themes.json color-themes/
+          git commit -m "chore: regenerate plugin and color theme index"
           git push
