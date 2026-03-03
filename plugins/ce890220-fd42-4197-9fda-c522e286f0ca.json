@@ -1,0 +1,14 @@
+{
+  "id": "ce890220-fd42-4197-9fda-c522e286f0ca",
+  "name": "Water Level Meter",
+  "author": "BruControl",
+  "description": "Displays a value between min and max as a water level gauge. Water fills from bottom to top with animated bubbles and smooth rise/fall. Supports customizable liquid color and animation speeds.",
+  "repo": "brucontrol/plugin-library",
+  "path": "widgets/water-level-meter",
+  "version": "1.0.1",
+  "commitHash": "47314603ed51c4634da465a6cc817c51a95a6c36",
+  "official": true,
+  "beta": false,
+  "tags": [],
+  "core": false
+}
