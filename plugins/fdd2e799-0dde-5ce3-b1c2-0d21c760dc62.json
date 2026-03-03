@@ -1,0 +1,14 @@
+{
+  "id": "fdd2e799-0dde-5ce3-b1c2-0d21c760dc62",
+  "name": "Piper Text to Speech",
+  "author": "BruControl",
+  "description": "Speaks text using browser speech synthesis. Configure text and speak in widget settings. Set speak to true to trigger; resets to false when done.",
+  "repo": "brucontrol/plugin-library",
+  "path": "widgets/text-to-speech",
+  "version": "1.0.6",
+  "commitHash": "046f2b00768823aa72dea22df215d7e51e7d7636",
+  "official": true,
+  "beta": false,
+  "tags": [],
+  "core": false
+}

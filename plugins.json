@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T22:58:00.097Z",
+  "lastUpdated": "2026-03-03T23:01:06.055Z",
   "plugins": [
     {
       "id": "753c2037-ff90-526e-b38a-5c97a639d161",
@@ -182,6 +182,15 @@
       "tags": []
     },
     {
+      "id": "fdd2e799-0dde-5ce3-b1c2-0d21c760dc62",
+      "name": "Piper Text to Speech",
+      "version": "1.0.6",
+      "official": true,
+      "core": false,
+      "beta": false,
+      "tags": []
+    },
+    {
       "id": "72460c83-e051-5f52-bacf-4b3dc6647a9c",
       "name": "Profile - Card",
       "version": "1.0.0",
@@ -247,7 +256,7 @@
     {
       "id": "f73b6960-126b-58a3-bd44-a130e47e75fc",
       "name": "Text to Speech",
-      "version": "1.0.5",
+      "version": "1.0.0",
       "official": true,
       "core": false,
       "beta": false,
