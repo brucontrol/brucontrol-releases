@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T13:28:17.189Z",
+  "lastUpdated": "2026-03-05T13:28:33.155Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -22,7 +22,7 @@
     {
       "id": "a64ba026-7833-492f-8893-672cf530ae76",
       "name": "Button - Card",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "official": true,
       "core": true,
       "beta": false,
