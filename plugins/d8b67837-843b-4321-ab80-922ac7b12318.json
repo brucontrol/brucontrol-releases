@@ -10,5 +10,9 @@
   "official": true,
   "beta": false,
   "tags": [],
+  "supportedTypes": [
+    "globalVariable-string",
+    "generic"
+  ],
   "core": false
 }

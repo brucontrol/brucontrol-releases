@@ -10,5 +10,12 @@
   "official": true,
   "beta": false,
   "tags": [],
+  "supportedTypes": [
+    "globalVariable-bool",
+    "globalVariable-value",
+    "globalVariable-string",
+    "globalVariable-datetime",
+    "globalVariable-timespan"
+  ],
   "core": true
 }
