@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T21:03:51.193Z",
+  "lastUpdated": "2026-03-06T21:15:01.992Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -285,7 +285,7 @@
     {
       "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
       "name": "Radial Gauge",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "official": true,
       "core": false,
       "beta": false,
