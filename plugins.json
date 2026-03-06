@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T00:23:41.081Z",
+  "lastUpdated": "2026-03-06T00:34:55.115Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -212,7 +212,7 @@
     {
       "id": "9cb4dc48-8584-473b-9e95-7f8bce81c50c",
       "name": "OW Temperature - Card",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "official": true,
       "core": true,
       "beta": false,
