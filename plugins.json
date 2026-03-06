@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T22:03:43.157Z",
+  "lastUpdated": "2026-03-06T23:56:29.760Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -385,6 +385,43 @@
       "tags": [],
       "supportedTypes": [
         "toggleSwitch"
+      ]
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a",
+      "name": "Value Debug",
+      "version": "1.0.1",
+      "official": true,
+      "core": false,
+      "beta": false,
+      "tags": [],
+      "supportedTypes": [
+        "generic",
+        "globalVariable-value",
+        "globalVariable-bool",
+        "globalVariable-string",
+        "globalVariable-datetime",
+        "globalVariable-timespan",
+        "owTemp",
+        "spiSensor",
+        "analogInput",
+        "pwmOutput",
+        "dutyCycle",
+        "pid",
+        "counter",
+        "hydrometer",
+        "digitalInput",
+        "digitalOutput",
+        "timer",
+        "stateful",
+        "toggleSwitch",
+        "button",
+        "alarm",
+        "profile",
+        "hysteresis",
+        "deadband",
+        "chart",
+        "scriptElement"
       ]
     },
     {
