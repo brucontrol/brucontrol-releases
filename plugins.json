@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T21:41:53.866Z",
+  "lastUpdated": "2026-03-06T21:55:08.640Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -112,7 +112,7 @@
     {
       "id": "e7f8a9b0-c1d2-4e3f-9a0b-1c2d3e4f5a6b",
       "name": "Erlenmeyer Flask",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "official": true,
       "core": false,
       "beta": false,
