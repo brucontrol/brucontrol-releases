@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T15:02:33.931Z",
+  "lastUpdated": "2026-03-07T15:03:29.226Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -148,7 +148,7 @@
     {
       "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80",
       "name": "Global Variable - Card",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "official": true,
       "core": true,
       "beta": false,
