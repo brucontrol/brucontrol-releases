@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T00:52:05.543Z",
+  "lastUpdated": "2026-03-07T01:17:34.114Z",
   "colorThemes": [
     {
       "id": "29f71f1b-f81e-5364-a613-eefecd604fdd",
@@ -44,6 +44,14 @@
     {
       "id": "9ee8bf39-05a5-52b7-914b-e04a6718beba",
       "name": "Newsprint",
+      "version": "1.0.0",
+      "official": true,
+      "beta": false,
+      "tags": []
+    },
+    {
+      "id": "7ffc28a1-2c67-50a0-acd0-be532ed5f684",
+      "name": "Pop Hunter",
       "version": "1.0.0",
       "official": true,
       "beta": false,
