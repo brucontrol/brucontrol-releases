@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T01:20:22.152Z",
+  "lastUpdated": "2026-03-07T01:20:33.412Z",
   "colorThemes": [
     {
       "id": "29f71f1b-f81e-5364-a613-eefecd604fdd",
@@ -52,7 +52,7 @@
     {
       "id": "7ffc28a1-2c67-50a0-acd0-be532ed5f684",
       "name": "Pop Hunter",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "official": true,
       "beta": false,
       "tags": []
