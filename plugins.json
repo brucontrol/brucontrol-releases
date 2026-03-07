@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-07T01:31:55.891Z",
+  "lastUpdated": "2026-03-07T13:22:40.332Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
       "name": "Alarm - Card",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "official": true,
       "core": true,
       "beta": false,
@@ -28,7 +28,7 @@
     {
       "id": "a64ba026-7833-492f-8893-672cf530ae76",
       "name": "Button - Card",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "official": true,
       "core": true,
       "beta": false,
@@ -40,7 +40,7 @@
     {
       "id": "8bb525c6-1494-499a-a64f-4593e1b5716a",
       "name": "Chart - Card",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "official": true,
       "core": true,
       "beta": false,
@@ -124,7 +124,7 @@
     {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
       "name": "Generic Widget - Card",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "official": true,
       "core": true,
       "beta": false,
@@ -148,7 +148,7 @@
     {
       "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80",
       "name": "Global Variable - Card",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "official": true,
       "core": true,
       "beta": false,
@@ -164,7 +164,7 @@
     {
       "id": "00c1bc7c-6312-4b70-beb1-697016259b28",
       "name": "Global Variable Boolean - Card",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "official": true,
       "core": true,
       "beta": false,
@@ -298,7 +298,7 @@
     {
       "id": "ae61e4ee-2d3b-4fd1-b5a9-270919a29943",
       "name": "Profile - Card",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "official": true,
       "core": true,
       "beta": false,
@@ -343,7 +343,7 @@
     {
       "id": "10af8668-d537-4a70-838d-df25c7ba8271",
       "name": "Script Element - Card",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "official": true,
       "core": true,
       "beta": false,
@@ -403,7 +403,7 @@
     {
       "id": "05a2a7d6-6d0e-4c94-9fdf-a5f1c4909eae",
       "name": "Timer - Card",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "official": true,
       "core": true,
       "beta": false,
@@ -415,7 +415,7 @@
     {
       "id": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750",
       "name": "Toggle Switch - Card",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "official": true,
       "core": true,
       "beta": false,
