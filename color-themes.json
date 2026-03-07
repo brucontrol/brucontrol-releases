@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T01:24:14.626Z",
+  "lastUpdated": "2026-03-07T01:31:45.838Z",
   "colorThemes": [
     {
       "id": "29f71f1b-f81e-5364-a613-eefecd604fdd",
@@ -20,7 +20,7 @@
     {
       "id": "d911b983-474c-59f8-85b9-5109a0277e69",
       "name": "Kitty Meow Meow",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "official": true,
       "beta": false,
       "tags": []
