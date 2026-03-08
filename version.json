@@ -1,4 +1,1 @@
-{
-  "version": "1.0.0.0",
-  "releaseNotesUrl": "https://github.com/brucontrol/app/releases"
-}
+{"version":"1.0.0.2-pheonix","releaseNotesUrl":"https://github.com/brucontrol/brucontrol-releases/releases/tag/v1.0.0.2-pheonix","windowsDownloadUrl":"https://github.com/brucontrol/brucontrol-releases/releases/download/v1.0.0.2-pheonix/BruControl-1.0.0.2-pheonix-win-x64.zip","dockerImage":"ghcr.io/brucontrol/brucontrol-web:1.0.0.2-pheonix"}
