@@ -82,6 +82,7 @@ async function main() {
       id: manifest.id,
       name: manifest.name,
       version: manifest.version,
+      commitHash: manifest.commitHash,
       official: manifest.official === true,
       core: isCore,
       beta: manifest.beta === true,
