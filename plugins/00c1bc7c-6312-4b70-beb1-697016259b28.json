@@ -4,7 +4,7 @@
   "author": "BruControl",
   "description": "Editor-only starter for global variable (Boolean) templates.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/gv-bool",
+  "path": "element-templates/gv-bool",
   "version": "1.0.3",
   "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
   "official": true,

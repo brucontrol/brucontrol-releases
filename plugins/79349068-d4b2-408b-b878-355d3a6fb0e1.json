@@ -4,7 +4,7 @@
   "author": "BruControl",
   "description": "Rotary dial selector for numeric global variables.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/selector-rotary",
+  "path": "element-templates/selector-rotary",
   "version": "1.0.2",
   "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
   "official": true,

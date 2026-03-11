@@ -1,10 +1,10 @@
 {
   "id": "4c9e9f5b-c4b2-42e7-bbec-f1121a975686",
-  "name": "Generic Widget - Markdown",
+  "name": "Generic Element - Markdown",
   "author": "BruControl",
   "description": "Displays rich markdown content with inline view and edit modes. Supports headings, lists, links, code blocks, tables, and more.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/generic-markdown",
+  "path": "element-templates/generic-markdown",
   "version": "1.0.2",
   "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
   "official": true,

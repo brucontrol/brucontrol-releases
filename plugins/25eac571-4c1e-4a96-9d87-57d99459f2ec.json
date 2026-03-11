@@ -4,7 +4,7 @@
   "author": "BruControl",
   "description": "Animated liquid tube with draggable routing, flow, and bubbles.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/hose",
+  "path": "element-templates/hose",
   "version": "1.0.2",
   "commitHash": "c64caaedd358b78357c552ec02145a23eb17b822",
   "official": true,

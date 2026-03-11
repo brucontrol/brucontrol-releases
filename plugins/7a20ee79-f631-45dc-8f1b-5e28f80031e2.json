@@ -4,7 +4,7 @@
   "author": "BruControl",
   "description": "Dropdown selector for string global variables.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/selector-combo",
+  "path": "element-templates/selector-combo",
   "version": "1.0.1",
   "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
   "official": true,

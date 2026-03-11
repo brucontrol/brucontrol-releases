@@ -1,5 +1,5 @@
 {
-  "_comment": "Plugin IDs that are core (force-installed by sync, cannot be uninstalled). Add IDs here when adding new core widgets.",
+  "_comment": "Plugin IDs that are core (force-installed by sync, cannot be uninstalled). Add IDs here when adding new core element templates.",
   "corePluginIds": [
     "9f6c2274-c028-4205-bf8c-31e22fe125cd",
     "b40835fe-5a1d-4a6c-80c0-d3471732488a",

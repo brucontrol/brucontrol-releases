@@ -4,7 +4,7 @@
   "author": "BruControl",
   "description": "Displays a value between min and max as a water level gauge. Water fills from bottom to top with animated bubbles and smooth rise/fall. Supports customizable liquid color and animation speeds.",
   "repo": "brucontrol/plugin-library",
-  "path": "widgets/water-level-meter",
+  "path": "element-templates/water-level-meter",
   "version": "1.0.3",
   "commitHash": "9f34a4b8388646dacc9589cbd953c899d42d6a84",
   "official": true,

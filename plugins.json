@@ -133,7 +133,7 @@
     },
     {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
-      "name": "Generic Widget - Card",
+      "name": "Generic Element - Card",
       "version": "1.0.3",
       "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
       "official": true,
@@ -146,7 +146,7 @@
     },
     {
       "id": "4c9e9f5b-c4b2-42e7-bbec-f1121a975686",
-      "name": "Generic Widget - Markdown",
+      "name": "Generic Element - Markdown",
       "version": "1.0.2",
       "commitHash": "363be002e07bf00a57f5f75ddfbb424b4c674183",
       "official": true,
