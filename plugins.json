@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T18:01:48.547Z",
+  "lastUpdated": "2026-03-13T18:05:47.290Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -243,8 +243,8 @@
     {
       "id": "e5f6a7b8-c9d0-4e1f-a2b3-3c4d5e6f7a8b",
       "name": "Int Debug",
-      "version": "1.0.3",
-      "commitHash": "ab998c88b3c3d4b940b448905347efaf849d1b26",
+      "version": "1.0.5",
+      "commitHash": "bf46f1620422462a8bca8ebbfd209b91dab761f6",
       "official": true,
       "core": false,
       "beta": false,
