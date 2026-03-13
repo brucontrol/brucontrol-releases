@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T16:06:40.729Z",
+  "lastUpdated": "2026-03-13T17:34:58.252Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -239,6 +239,45 @@
         "generic"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e1f-a2b3-3c4d5e6f7a8b-beta",
+      "name": "Int Debug",
+      "version": "1.0.3",
+      "commitHash": "b01548dcdc914bee6ec7e1688f89b7af8cf4dae8",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "generic",
+        "globalVariable-value",
+        "globalVariable-bool",
+        "globalVariable-string",
+        "globalVariable-datetime",
+        "globalVariable-timespan",
+        "owTemp",
+        "spiSensor",
+        "analogInput",
+        "pwmOutput",
+        "dutyCycle",
+        "pid",
+        "counter",
+        "hydrometer",
+        "digitalInput",
+        "digitalOutput",
+        "timer",
+        "stateful",
+        "toggleSwitch",
+        "button",
+        "alarm",
+        "profile",
+        "hysteresis",
+        "deadband",
+        "chart",
+        "scriptElement"
+      ],
+      "stablePluginId": "e5f6a7b8-c9d0-4e1f-a2b3-3c4d5e6f7a8b"
     },
     {
       "id": "e5f6a7b8-c9d0-4e1f-a2b3-3c4d5e6f7a8b",
