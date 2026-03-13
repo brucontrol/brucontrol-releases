@@ -6,12 +6,13 @@
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/script",
   "version": "1.0.7",
-  "commitHash": "150ec8ab20a2e3d3314f1d573c55a3f121b734cd",
+  "commitHash": "6b66453918b8ec48fec944904d0db31ae605ed42",
   "official": true,
   "beta": false,
   "tags": [],
   "supportedTypes": [
     "scriptElement"
   ],
+  "collection": "BruControl Cards",
   "core": true
 }

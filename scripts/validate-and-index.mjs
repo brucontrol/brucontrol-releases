@@ -88,6 +88,7 @@ async function main() {
       beta: manifest.beta === true,
       tags: Array.isArray(manifest.tags) ? manifest.tags : [],
       supportedTypes: Array.isArray(manifest.supportedTypes) ? manifest.supportedTypes : [],
+      ...(manifest.collection ? { collection: String(manifest.collection).trim() } : {}),
     });
   }
 
