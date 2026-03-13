@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-13T19:31:42.874Z",
+  "lastUpdated": "2026-03-13T19:42:09.022Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
       "name": "Alarm - Card",
-      "version": "1.0.13",
-      "commitHash": "79bb955a7413a7f782ae46ad5e8688f6b28fe327",
+      "version": "1.0.14",
+      "commitHash": "9463d0deeb205a3f089f3faaba5b59b858826133",
       "official": true,
       "core": true,
       "beta": false,
