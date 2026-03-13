@@ -49,11 +49,30 @@ async function main() {
       process.exit(1);
     }
 
-    const expectedId = file.replace(/\.json$/, '');
-    if (manifest.id !== expectedId) {
-      console.error(`${file}: manifest 'id' must match filename (expected ${expectedId}, got ${manifest.id})`);
-      process.exit(1);
+    const isBetaFile = file.endsWith('-beta.json');
+    let indexId;
+    let baseId;
+
+    if (isBetaFile) {
+      baseId = file.replace(/-beta\.json$/, '');
+      indexId = `${baseId}-beta`;
+      if (manifest.id !== baseId) {
+        console.error(`${file}: beta manifest 'id' must match base id from filename (expected ${baseId}, got ${manifest.id})`);
+        process.exit(1);
+      }
+      if (manifest.beta !== true) {
+        console.error(`${file}: beta manifest must have beta: true`);
+        process.exit(1);
+      }
+    } else {
+      const expectedId = file.replace(/\.json$/, '');
+      if (manifest.id !== expectedId) {
+        console.error(`${file}: manifest 'id' must match filename (expected ${expectedId}, got ${manifest.id})`);
+        process.exit(1);
+      }
+      indexId = manifest.id;
     }
+
     if (!isValidUuid(manifest.id)) {
       console.error(`${file}: 'id' must be a valid UUID`);
       process.exit(1);
@@ -66,29 +85,30 @@ async function main() {
       }
     }
 
-    if (seenIds.has(manifest.id)) {
-      console.error(`Duplicate plugin id: ${manifest.id}`);
+    if (seenIds.has(indexId)) {
+      console.error(`Duplicate plugin id: ${indexId}`);
       process.exit(1);
     }
-    seenIds.add(manifest.id);
+    seenIds.add(indexId);
 
     const isCore = corePluginIds.has(manifest.id);
-    if (manifest.core !== isCore) {
+    if (!isBetaFile && manifest.core !== isCore) {
       manifest.core = isCore;
       await writeFile(filePath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
     }
 
     entries.push({
-      id: manifest.id,
+      id: indexId,
       name: manifest.name,
       version: manifest.version,
       commitHash: manifest.commitHash,
       official: manifest.official === true,
-      core: isCore,
+      core: isBetaFile ? false : isCore,
       beta: manifest.beta === true,
       tags: Array.isArray(manifest.tags) ? manifest.tags : [],
       supportedTypes: Array.isArray(manifest.supportedTypes) ? manifest.supportedTypes : [],
       ...(manifest.collection ? { collection: String(manifest.collection).trim() } : {}),
+      ...(isBetaFile ? { stablePluginId: baseId } : {}),
     });
   }
 
