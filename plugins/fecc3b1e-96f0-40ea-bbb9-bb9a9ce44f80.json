@@ -6,7 +6,7 @@
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/gv-value",
   "version": "1.0.12",
-  "commitHash": "2298335e7fab5d9afebaab875bf2fb6dcca7de1f",
+  "commitHash": "6b66453918b8ec48fec944904d0db31ae605ed42",
   "official": true,
   "beta": false,
   "tags": [],
@@ -17,5 +17,6 @@
     "globalVariable-datetime",
     "globalVariable-timespan"
   ],
+  "collection": "BruControl Cards",
   "core": true
 }

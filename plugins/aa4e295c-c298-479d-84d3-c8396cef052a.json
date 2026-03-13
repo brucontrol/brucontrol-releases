@@ -6,12 +6,13 @@
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/deadband",
   "version": "1.0.5",
-  "commitHash": "0d531d1fe7b8e8a1899b485e34ef24d00632f16e",
+  "commitHash": "6b66453918b8ec48fec944904d0db31ae605ed42",
   "official": true,
   "beta": false,
   "tags": [],
   "supportedTypes": [
     "deadband"
   ],
+  "collection": "BruControl Cards",
   "core": true
 }

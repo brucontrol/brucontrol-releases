@@ -6,12 +6,13 @@
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/stateful",
   "version": "1.0.5",
-  "commitHash": "42118f4f107a87eb041d1f4ae287c45f811318f6",
+  "commitHash": "6b66453918b8ec48fec944904d0db31ae605ed42",
   "official": true,
   "beta": false,
   "tags": [],
   "supportedTypes": [
     "stateful"
   ],
+  "collection": "BruControl Cards",
   "core": true
 }
