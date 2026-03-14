@@ -1,0 +1,18 @@
+{
+  "id": "35ea1687-2b24-4ebd-9fd3-3c1f9bed9664",
+  "name": "Counter - Card",
+  "author": "BruControl",
+  "description": "Built-in counter element template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/counter",
+  "version": "1.0.8",
+  "commitHash": "58924afb35846e9642b3dabfb908564229c1baa5",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "counter"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "35ea1687-2b24-4ebd-9fd3-3c1f9bed9664"
+}
