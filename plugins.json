@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T11:37:25.395Z",
+  "lastUpdated": "2026-03-15T12:51:12.421Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -22,7 +22,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "analogInput"
@@ -36,7 +36,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "button"
@@ -77,7 +77,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "deadband"
@@ -105,7 +105,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "digitalOutput"
@@ -146,7 +146,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "generic"
@@ -173,7 +173,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "globalVariable-bool",
@@ -340,7 +340,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "profile"
@@ -368,7 +368,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": false,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "generic",
@@ -390,7 +390,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "scriptElement"
@@ -474,7 +474,7 @@
       "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
       "official": true,
       "core": true,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "toggleSwitch"

@@ -8,7 +8,7 @@
   "version": "1.0.12",
   "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
   "official": true,
-  "beta": true,
+  "beta": false,
   "tags": [],
   "supportedTypes": [
     "generic",
