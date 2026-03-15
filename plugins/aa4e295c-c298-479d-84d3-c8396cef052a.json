@@ -6,9 +6,9 @@
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/deadband",
   "version": "1.0.9",
-  "commitHash": "01a91552ca8d0335904bc17b7de98d966b13a050",
+  "commitHash": "6bc95a5b4be644af2f47f4011de1089963de5f22",
   "official": true,
-  "beta": false,
+  "beta": true,
   "tags": [],
   "supportedTypes": [
     "deadband"
