@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T16:10:05.557Z",
+  "lastUpdated": "2026-03-15T16:22:55.775Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -129,8 +129,8 @@
     {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
       "name": "Generic Element - Card",
-      "version": "1.0.10",
-      "commitHash": "952f1d05d045c7d50ffae5cf867c41055500c079",
+      "version": "1.0.11",
+      "commitHash": "f9abd19a334205661e16b06d3f275eed4b84fc04",
       "official": true,
       "core": true,
       "beta": false,
