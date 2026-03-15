@@ -1,0 +1,26 @@
+{
+  "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+  "name": "Radial Gauge",
+  "author": "BruControl",
+  "description": "Semi-circular gauge with user-defined colored bands, needle, and optional value display. Works with global variables, analog input, PWM, duty cycle, OW temp, SPI sensor, PID, counter, hydrometer, and generic elements.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/radial-gauge",
+  "version": "1.0.12",
+  "commitHash": "11f55199fd31e0490ed8ba0de6845ea1e5902b9b",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "generic",
+    "globalVariable-value",
+    "owTemp",
+    "spiSensor",
+    "analogInput",
+    "pwmOutput",
+    "dutyCycle",
+    "pid",
+    "counter",
+    "hydrometer"
+  ],
+  "stablePluginId": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c"
+}
