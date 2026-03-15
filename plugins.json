@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T15:58:18.931Z",
+  "lastUpdated": "2026-03-15T16:09:52.491Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -129,8 +129,8 @@
     {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
       "name": "Generic Element - Card",
-      "version": "1.0.9",
-      "commitHash": "1190b8aca2338fd2d0b85b122e68210290eb5ef7",
+      "version": "1.0.10",
+      "commitHash": "952f1d05d045c7d50ffae5cf867c41055500c079",
       "official": true,
       "core": true,
       "beta": false,
@@ -510,7 +510,7 @@
       "id": "ce890220-fd42-4197-9fda-c522e286f0ca",
       "name": "Water Level Meter",
       "version": "1.0.8",
-      "commitHash": "75fa763d2f21c3e14ee4a128e96a4a67df575ef7",
+      "commitHash": "91114427ab0738cce4866a158d4959ee656893bf",
       "official": true,
       "core": false,
       "beta": false,
