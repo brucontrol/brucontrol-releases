@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T12:26:32.299Z",
+  "lastUpdated": "2026-03-18T12:38:53.166Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -73,8 +73,8 @@
     {
       "id": "aa4e295c-c298-479d-84d3-c8396cef052a-beta",
       "name": "Deadband - Card",
-      "version": "1.0.11",
-      "commitHash": "55c3dea3376b9cfab698613c9d8a5926cd2b0d19",
+      "version": "1.0.12",
+      "commitHash": "fc1146fc8b2739c6d3ae2d8ef88086eabb3b6a29",
       "official": true,
       "core": false,
       "beta": true,
@@ -217,8 +217,8 @@
     {
       "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e-beta",
       "name": "Hysteresis - Card",
-      "version": "1.0.9",
-      "commitHash": "b41c3c2970d7eae7945f34653ef3f462dfad268f",
+      "version": "1.0.10",
+      "commitHash": "fc1146fc8b2739c6d3ae2d8ef88086eabb3b6a29",
       "official": true,
       "core": false,
       "beta": true,
@@ -339,8 +339,8 @@
     {
       "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d-beta",
       "name": "PID - Card",
-      "version": "1.0.11",
-      "commitHash": "55c3dea3376b9cfab698613c9d8a5926cd2b0d19",
+      "version": "1.0.12",
+      "commitHash": "fc1146fc8b2739c6d3ae2d8ef88086eabb3b6a29",
       "official": true,
       "core": false,
       "beta": true,
