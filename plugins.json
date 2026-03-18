@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T16:23:04.878Z",
+  "lastUpdated": "2026-03-18T11:36:15.432Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -69,6 +69,21 @@
         "counter"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "aa4e295c-c298-479d-84d3-c8396cef052a-beta",
+      "name": "Deadband - Card",
+      "version": "1.0.10",
+      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "deadband"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "aa4e295c-c298-479d-84d3-c8396cef052a"
     },
     {
       "id": "aa4e295c-c298-479d-84d3-c8396cef052a",
@@ -200,6 +215,21 @@
       "collection": "BruControl Cards"
     },
     {
+      "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e-beta",
+      "name": "Hysteresis - Card",
+      "version": "1.0.8",
+      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "hysteresis"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e"
+    },
+    {
       "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e",
       "name": "Hysteresis - Card",
       "version": "1.0.7",
@@ -266,6 +296,20 @@
       ]
     },
     {
+      "id": "25eac571-4c1e-4a96-9d87-57d99459f2ec-beta",
+      "name": "Liquid Tube 2",
+      "version": "1.0.7",
+      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "generic"
+      ],
+      "stablePluginId": "25eac571-4c1e-4a96-9d87-57d99459f2ec"
+    },
+    {
       "id": "25eac571-4c1e-4a96-9d87-57d99459f2ec",
       "name": "Liquid Tube 2",
       "version": "1.0.6",
@@ -291,6 +335,21 @@
         "owTemp"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d-beta",
+      "name": "PID - Card",
+      "version": "1.0.10",
+      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "pid"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d"
     },
     {
       "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d",

@@ -1,0 +1,18 @@
+{
+  "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d",
+  "name": "PID - Card",
+  "author": "BruControl",
+  "description": "Built-in PID element template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/pid",
+  "version": "1.0.10",
+  "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "pid"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d"
+}
