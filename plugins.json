@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T11:36:29.742Z",
+  "lastUpdated": "2026-03-18T12:11:44.012Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -217,8 +217,8 @@
     {
       "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e-beta",
       "name": "Hysteresis - Card",
-      "version": "1.0.8",
-      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
+      "version": "1.0.9",
+      "commitHash": "b41c3c2970d7eae7945f34653ef3f462dfad268f",
       "official": true,
       "core": false,
       "beta": true,
