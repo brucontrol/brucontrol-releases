@@ -1,0 +1,18 @@
+{
+  "id": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23",
+  "name": "Text Selector - Card",
+  "author": "BruControl",
+  "description": "A selection flyout for string global variables. Users configure a comma-separated list of options, and the card shows the current value with a tap-to-pick selector.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/text-selector",
+  "version": "1.0.1",
+  "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "globalVariable-string"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23"
+}

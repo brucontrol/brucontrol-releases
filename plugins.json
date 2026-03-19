@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T12:09:29.489Z",
+  "lastUpdated": "2026-03-19T12:26:03.213Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -14,6 +14,21 @@
         "alarm"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "b40835fe-5a1d-4a6c-80c0-d3471732488a-beta",
+      "name": "Analog Input - Card",
+      "version": "1.0.11",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "analogInput"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "b40835fe-5a1d-4a6c-80c0-d3471732488a"
     },
     {
       "id": "b40835fe-5a1d-4a6c-80c0-d3471732488a",
@@ -129,6 +144,21 @@
       "collection": "BruControl Cards"
     },
     {
+      "id": "39211543-69fd-421b-9442-fa105a713af2-beta",
+      "name": "Digital Input - Card",
+      "version": "1.2.9",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "digitalInput"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "39211543-69fd-421b-9442-fa105a713af2"
+    },
+    {
       "id": "39211543-69fd-421b-9442-fa105a713af2",
       "name": "Digital Input - Card",
       "version": "1.2.8",
@@ -143,6 +173,21 @@
       "collection": "BruControl Cards"
     },
     {
+      "id": "202424bc-170f-42c9-92b1-b313b2114903-beta",
+      "name": "Digital Output - Card",
+      "version": "1.1.8",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "digitalOutput"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "202424bc-170f-42c9-92b1-b313b2114903"
+    },
+    {
       "id": "202424bc-170f-42c9-92b1-b313b2114903",
       "name": "Digital Output - Card",
       "version": "1.1.7",
@@ -155,6 +200,21 @@
         "digitalOutput"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "eef3e7f1-4a66-464b-b9f7-81a8311e563b-beta",
+      "name": "Duty Cycle - Card",
+      "version": "1.0.10",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "dutyCycle"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "eef3e7f1-4a66-464b-b9f7-81a8311e563b"
     },
     {
       "id": "eef3e7f1-4a66-464b-b9f7-81a8311e563b",
@@ -196,6 +256,25 @@
       "supportedTypes": [
         "generic"
       ]
+    },
+    {
+      "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80-beta",
+      "name": "Global Variable - Card",
+      "version": "1.0.15",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "globalVariable-bool",
+        "globalVariable-value",
+        "globalVariable-string",
+        "globalVariable-datetime",
+        "globalVariable-timespan"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80"
     },
     {
       "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80",
@@ -438,6 +517,21 @@
       "collection": "BruControl Cards"
     },
     {
+      "id": "48518124-c24f-445c-b316-b2ca4f8daf9f-beta",
+      "name": "PWM Output - Card",
+      "version": "1.0.10",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "pwmOutput"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "48518124-c24f-445c-b316-b2ca4f8daf9f"
+    },
+    {
       "id": "48518124-c24f-445c-b316-b2ca4f8daf9f",
       "name": "PWM Output - Card",
       "version": "1.0.9",
@@ -542,6 +636,21 @@
         "stateful"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23-beta",
+      "name": "Text Selector - Card",
+      "version": "1.0.1",
+      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "globalVariable-string"
+      ],
+      "collection": "BruControl Cards",
+      "stablePluginId": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23"
     },
     {
       "id": "05a2a7d6-6d0e-4c94-9fdf-a5f1c4909eae",
