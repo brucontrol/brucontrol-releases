@@ -1,26 +1,11 @@
 {
-  "lastUpdated": "2026-03-19T12:54:40.805Z",
+  "lastUpdated": "2026-03-19T13:06:13.972Z",
   "plugins": [
-    {
-      "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd-beta",
-      "name": "Alarm - Card",
-      "version": "1.0.16",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "alarm"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "9f6c2274-c028-4205-bf8c-31e22fe125cd"
-    },
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
       "name": "Alarm - Card",
-      "version": "1.0.15",
-      "commitHash": "bbcf068b4545b00bd94975444f8bfa5d7b687f48",
+      "version": "1.0.17",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -29,27 +14,12 @@
         "alarm"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "b40835fe-5a1d-4a6c-80c0-d3471732488a-beta",
-      "name": "Analog Input - Card",
-      "version": "1.0.11",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "analogInput"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "b40835fe-5a1d-4a6c-80c0-d3471732488a"
     },
     {
       "id": "b40835fe-5a1d-4a6c-80c0-d3471732488a",
       "name": "Analog Input - Card",
-      "version": "1.0.10",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.12",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -60,24 +30,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "a64ba026-7833-492f-8893-672cf530ae76-beta",
-      "name": "Button",
-      "version": "2.0.9",
-      "commitHash": "4bed5836b52511bd91ba19ea26d98a6ae55d28eb",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "button"
-      ],
-      "stablePluginId": "a64ba026-7833-492f-8893-672cf530ae76"
-    },
-    {
       "id": "a64ba026-7833-492f-8893-672cf530ae76",
       "name": "Button",
-      "version": "2.0.8",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "2.0.10",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -101,25 +57,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "35ea1687-2b24-4ebd-9fd3-3c1f9bed9664-beta",
-      "name": "Counter - Card",
-      "version": "1.0.10",
-      "commitHash": "4bed5836b52511bd91ba19ea26d98a6ae55d28eb",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "counter"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "35ea1687-2b24-4ebd-9fd3-3c1f9bed9664"
-    },
-    {
       "id": "35ea1687-2b24-4ebd-9fd3-3c1f9bed9664",
       "name": "Counter - Card",
-      "version": "1.0.9",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.11",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -128,27 +69,12 @@
         "counter"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "aa4e295c-c298-479d-84d3-c8396cef052a-beta",
-      "name": "Deadband - Card",
-      "version": "1.0.13",
-      "commitHash": "b61c7f347c98bea6e2870372679ca2ec9e42a4d7",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "deadband"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "aa4e295c-c298-479d-84d3-c8396cef052a"
     },
     {
       "id": "aa4e295c-c298-479d-84d3-c8396cef052a",
       "name": "Deadband - Card",
-      "version": "1.0.9",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.14",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -159,25 +85,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "39211543-69fd-421b-9442-fa105a713af2-beta",
-      "name": "Digital Input - Card",
-      "version": "1.2.9",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "digitalInput"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "39211543-69fd-421b-9442-fa105a713af2"
-    },
-    {
       "id": "39211543-69fd-421b-9442-fa105a713af2",
       "name": "Digital Input - Card",
-      "version": "1.2.8",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.2.10",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -186,27 +97,12 @@
         "digitalInput"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "202424bc-170f-42c9-92b1-b313b2114903-beta",
-      "name": "Digital Output - Card",
-      "version": "1.1.8",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "digitalOutput"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "202424bc-170f-42c9-92b1-b313b2114903"
     },
     {
       "id": "202424bc-170f-42c9-92b1-b313b2114903",
       "name": "Digital Output - Card",
-      "version": "1.1.7",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.1.9",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -217,25 +113,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "eef3e7f1-4a66-464b-b9f7-81a8311e563b-beta",
-      "name": "Duty Cycle - Card",
-      "version": "1.0.10",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "dutyCycle"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "eef3e7f1-4a66-464b-b9f7-81a8311e563b"
-    },
-    {
       "id": "eef3e7f1-4a66-464b-b9f7-81a8311e563b",
       "name": "Duty Cycle - Card",
-      "version": "1.0.9",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.11",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -246,25 +127,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d-beta",
-      "name": "Generic Element - Card",
-      "version": "1.0.12",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "generic"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d"
-    },
-    {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
       "name": "Generic Element - Card",
-      "version": "1.0.11",
-      "commitHash": "f9abd19a334205661e16b06d3f275eed4b84fc04",
+      "version": "1.0.13",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -288,29 +154,10 @@
       ]
     },
     {
-      "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80-beta",
-      "name": "Global Variable - Card",
-      "version": "1.0.15",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "globalVariable-bool",
-        "globalVariable-value",
-        "globalVariable-string",
-        "globalVariable-datetime",
-        "globalVariable-timespan"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80"
-    },
-    {
       "id": "fecc3b1e-96f0-40ea-bbb9-bb9a9ce44f80",
       "name": "Global Variable - Card",
-      "version": "1.0.14",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.16",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -323,27 +170,12 @@
         "globalVariable-timespan"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "00c1bc7c-6312-4b70-beb1-697016259b28-beta",
-      "name": "Global Variable Boolean - Card",
-      "version": "1.0.9",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "globalVariable-bool"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "00c1bc7c-6312-4b70-beb1-697016259b28"
     },
     {
       "id": "00c1bc7c-6312-4b70-beb1-697016259b28",
       "name": "Global Variable Boolean - Card",
-      "version": "1.0.8",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.10",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -354,25 +186,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "6c3b95b1-ae9f-43b5-83dd-7bc40dd849e8-beta",
-      "name": "Hydrometer - Card",
-      "version": "1.0.8",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "hydrometer"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "6c3b95b1-ae9f-43b5-83dd-7bc40dd849e8"
-    },
-    {
       "id": "6c3b95b1-ae9f-43b5-83dd-7bc40dd849e8",
       "name": "Hydrometer - Card",
-      "version": "1.0.7",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.9",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -383,25 +200,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e-beta",
-      "name": "Hysteresis - Card",
-      "version": "1.0.11",
-      "commitHash": "b61c7f347c98bea6e2870372679ca2ec9e42a4d7",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "hysteresis"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e"
-    },
-    {
       "id": "a351f3c7-5a2e-459a-9ea0-a81b4e47232e",
       "name": "Hysteresis - Card",
-      "version": "1.0.7",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.12",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -464,24 +266,10 @@
       ]
     },
     {
-      "id": "25eac571-4c1e-4a96-9d87-57d99459f2ec-beta",
-      "name": "Liquid Tube 2",
-      "version": "1.0.7",
-      "commitHash": "fc0e50e3d775fdb287f1fb263cc11c4c953ba557",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "generic"
-      ],
-      "stablePluginId": "25eac571-4c1e-4a96-9d87-57d99459f2ec"
-    },
-    {
       "id": "25eac571-4c1e-4a96-9d87-57d99459f2ec",
       "name": "Liquid Tube 2",
-      "version": "1.0.6",
-      "commitHash": "ab998c88b3c3d4b940b448905347efaf849d1b26",
+      "version": "1.0.8",
+      "commitHash": "090b7646885674845c3b95fbd8f770e383ca1aa6",
       "official": true,
       "core": false,
       "beta": false,
@@ -491,25 +279,10 @@
       ]
     },
     {
-      "id": "9cb4dc48-8584-473b-9e95-7f8bce81c50c-beta",
-      "name": "OW Temperature - Card",
-      "version": "1.0.11",
-      "commitHash": "4bed5836b52511bd91ba19ea26d98a6ae55d28eb",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "owTemp"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "9cb4dc48-8584-473b-9e95-7f8bce81c50c"
-    },
-    {
       "id": "9cb4dc48-8584-473b-9e95-7f8bce81c50c",
       "name": "OW Temperature - Card",
-      "version": "1.0.10",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.12",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -520,25 +293,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d-beta",
-      "name": "PID - Card",
-      "version": "1.0.13",
-      "commitHash": "b61c7f347c98bea6e2870372679ca2ec9e42a4d7",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "pid"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d"
-    },
-    {
       "id": "c9f71aaf-385f-4a8b-8b3b-8ab6b2a2b41d",
       "name": "PID - Card",
-      "version": "1.0.9",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.14",
+      "commitHash": "110b1ebce42cc12a2a6ebf4c4a7208032a1269cc",
       "official": true,
       "core": true,
       "beta": false,
@@ -563,25 +321,10 @@
       ]
     },
     {
-      "id": "ae61e4ee-2d3b-4fd1-b5a9-270919a29943-beta",
-      "name": "Profile - Card",
-      "version": "1.0.14",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "profile"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "ae61e4ee-2d3b-4fd1-b5a9-270919a29943"
-    },
-    {
       "id": "ae61e4ee-2d3b-4fd1-b5a9-270919a29943",
       "name": "Profile - Card",
-      "version": "1.0.13",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.15",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -590,27 +333,12 @@
         "profile"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "48518124-c24f-445c-b316-b2ca4f8daf9f-beta",
-      "name": "PWM Output - Card",
-      "version": "1.0.10",
-      "commitHash": "3642d6af1ee61f3e0821ce10b7d872fcf59a55c0",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "pwmOutput"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "48518124-c24f-445c-b316-b2ca4f8daf9f"
     },
     {
       "id": "48518124-c24f-445c-b316-b2ca4f8daf9f",
       "name": "PWM Output - Card",
-      "version": "1.0.9",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.11",
+      "commitHash": "ab15c4331b971b755ebd38c0dc2db720292633bd",
       "official": true,
       "core": true,
       "beta": false,
@@ -621,33 +349,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c-beta",
-      "name": "Radial Gauge",
-      "version": "1.0.13",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "generic",
-        "globalVariable-value",
-        "owTemp",
-        "spiSensor",
-        "analogInput",
-        "pwmOutput",
-        "dutyCycle",
-        "pid",
-        "counter",
-        "hydrometer"
-      ],
-      "stablePluginId": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c"
-    },
-    {
       "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
       "name": "Radial Gauge",
-      "version": "1.0.12",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.14",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": false,
       "beta": false,
@@ -666,25 +371,10 @@
       ]
     },
     {
-      "id": "10af8668-d537-4a70-838d-df25c7ba8271-beta",
-      "name": "Script Element - Card",
-      "version": "1.0.12",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "scriptElement"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "10af8668-d537-4a70-838d-df25c7ba8271"
-    },
-    {
       "id": "10af8668-d537-4a70-838d-df25c7ba8271",
       "name": "Script Element - Card",
-      "version": "1.0.11",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.13",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -693,27 +383,12 @@
         "scriptElement"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "7a20ee79-f631-45dc-8f1b-5e28f80031e2-beta",
-      "name": "Selector (Combo Box) - Card",
-      "version": "1.0.7",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "globalVariable-string"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "7a20ee79-f631-45dc-8f1b-5e28f80031e2"
     },
     {
       "id": "7a20ee79-f631-45dc-8f1b-5e28f80031e2",
       "name": "Selector (Combo Box) - Card",
-      "version": "1.0.6",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.8",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -722,27 +397,12 @@
         "globalVariable-string"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "79349068-d4b2-408b-b878-355d3a6fb0e1-beta",
-      "name": "Selector (Rotary Dial) - Card",
-      "version": "1.0.8",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "globalVariable-value"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "79349068-d4b2-408b-b878-355d3a6fb0e1"
     },
     {
       "id": "79349068-d4b2-408b-b878-355d3a6fb0e1",
       "name": "Selector (Rotary Dial) - Card",
-      "version": "1.0.7",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.9",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -753,25 +413,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "e1380387-18f2-403c-a0ae-6c45a97d4d4a-beta",
-      "name": "SPI Sensor - Card",
-      "version": "1.0.10",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "spiSensor"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "e1380387-18f2-403c-a0ae-6c45a97d4d4a"
-    },
-    {
       "id": "e1380387-18f2-403c-a0ae-6c45a97d4d4a",
       "name": "SPI Sensor - Card",
-      "version": "1.0.9",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.11",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -780,27 +425,12 @@
         "spiSensor"
       ],
       "collection": "BruControl Cards"
-    },
-    {
-      "id": "b03b27ce-33d7-4da8-a900-48de00a6c8b3-beta",
-      "name": "stateful - Card",
-      "version": "1.0.8",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "stateful"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "b03b27ce-33d7-4da8-a900-48de00a6c8b3"
     },
     {
       "id": "b03b27ce-33d7-4da8-a900-48de00a6c8b3",
       "name": "stateful - Card",
-      "version": "1.0.7",
-      "commitHash": "f07fd9c82e081929599533ad31676870a48c366f",
+      "version": "1.0.9",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -811,40 +441,24 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23-beta",
+      "id": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23",
       "name": "Text Selector - Card",
-      "version": "1.0.2",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
+      "version": "1.0.3",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": false,
-      "beta": true,
+      "beta": false,
       "tags": [],
       "supportedTypes": [
         "globalVariable-string"
       ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "a7c2e8f1-3b5d-4a9e-bf12-6d8c0e4f7a23"
-    },
-    {
-      "id": "05a2a7d6-6d0e-4c94-9fdf-a5f1c4909eae-beta",
-      "name": "Timer - Card",
-      "version": "1.0.15",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "timer"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "05a2a7d6-6d0e-4c94-9fdf-a5f1c4909eae"
+      "collection": "BruControl Cards"
     },
     {
       "id": "05a2a7d6-6d0e-4c94-9fdf-a5f1c4909eae",
       "name": "Timer - Card",
-      "version": "1.0.14",
-      "commitHash": "91d5b90eaaec11941eb6b36d9a376d70dc6b1729",
+      "version": "1.0.16",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
@@ -855,25 +469,10 @@
       "collection": "BruControl Cards"
     },
     {
-      "id": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750-beta",
-      "name": "Toggle Switch - Card",
-      "version": "1.0.9",
-      "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
-      "official": true,
-      "core": false,
-      "beta": true,
-      "tags": [],
-      "supportedTypes": [
-        "toggleSwitch"
-      ],
-      "collection": "BruControl Cards",
-      "stablePluginId": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750"
-    },
-    {
       "id": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750",
       "name": "Toggle Switch - Card",
-      "version": "1.0.8",
-      "commitHash": "43f4896b14fe737e0ba6c8eea437a0d24d678bb4",
+      "version": "1.0.10",
+      "commitHash": "42eab84bdb3d8375fb6429844a13c82416b3b55e",
       "official": true,
       "core": true,
       "beta": false,
