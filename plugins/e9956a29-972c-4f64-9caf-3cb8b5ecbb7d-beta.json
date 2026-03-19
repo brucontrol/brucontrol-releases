@@ -1,0 +1,18 @@
+{
+  "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
+  "name": "Generic Element - Card",
+  "author": "BruControl",
+  "description": "Built-in default element template for generic elements. Shows the element name.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/generic",
+  "version": "1.0.12",
+  "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "generic"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d"
+}

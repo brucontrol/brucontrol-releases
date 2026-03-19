@@ -1,0 +1,18 @@
+{
+  "id": "6c3b95b1-ae9f-43b5-83dd-7bc40dd849e8",
+  "name": "Hydrometer - Card",
+  "author": "BruControl",
+  "description": "Built-in hydrometer element template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/hydrometer",
+  "version": "1.0.8",
+  "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "hydrometer"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "6c3b95b1-ae9f-43b5-83dd-7bc40dd849e8"
+}

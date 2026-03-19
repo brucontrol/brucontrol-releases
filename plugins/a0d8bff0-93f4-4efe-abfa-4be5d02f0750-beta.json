@@ -1,0 +1,18 @@
+{
+  "id": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750",
+  "name": "Toggle Switch - Card",
+  "author": "BruControl",
+  "description": "Built-in toggle switch element template (matches element template editor default).",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/toggle-switch",
+  "version": "1.0.9",
+  "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "toggleSwitch"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "a0d8bff0-93f4-4efe-abfa-4be5d02f0750"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10af8668-d537-4a70-838d-df25c7ba8271",
+  "name": "Script Element - Card",
+  "author": "BruControl",
+  "description": "Built-in script element element template.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/script",
+  "version": "1.0.12",
+  "commitHash": "944272171df138e16c667f15bd45ac0339db35ea",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "scriptElement"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "10af8668-d537-4a70-838d-df25c7ba8271"
+}
