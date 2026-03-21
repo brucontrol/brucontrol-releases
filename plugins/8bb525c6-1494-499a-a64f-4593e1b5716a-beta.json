@@ -1,0 +1,18 @@
+{
+  "id": "8bb525c6-1494-499a-a64f-4593e1b5716a",
+  "name": "Chart - Card",
+  "author": "BruControl",
+  "description": "Built-in chart element template with history, live streaming, and oscilloscope mode.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/chart",
+  "version": "1.0.18",
+  "commitHash": "0b5f6db5a33be8b2b50f36649ea85e6be706cbce",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "chart"
+  ],
+  "collection": "BruControl Cards",
+  "stablePluginId": "8bb525c6-1494-499a-a64f-4593e1b5716a"
+}
