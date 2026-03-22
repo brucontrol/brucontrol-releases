@@ -5,14 +5,14 @@
   "description": "Speaks text using the ElevenLabs cloud API via BruControl.fetchExternal server proxy (add api.elevenlabs.io to ExternalFetch:AllowedHosts). Set API key and voice ID in element settings. Audio is pre-fetched when text or voice changes; set speak true to play. Resets speak to false after playback.",
   "repo": "brucontrol/plugin-library",
   "path": "element-templates/elevenlabs-text-to-speech",
-  "version": "1.1.1",
-  "commitHash": "2b03610f4030d43e9328152464c2c516f31cdf3f",
+  "version": "1.1.2",
+  "commitHash": "73c9b060d1da8badfe3593b9670a93757d26645b",
   "official": true,
-  "beta": true,
+  "beta": false,
   "tags": [],
   "supportedTypes": [
     "globalVariable-string",
     "generic"
   ],
-  "stablePluginId": "63288bdf-7785-4d30-abbd-9fa1538e9bfd"
+  "core": false
 }
