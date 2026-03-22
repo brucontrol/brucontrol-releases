@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T15:48:08.677Z",
+  "lastUpdated": "2026-03-22T12:52:32.950Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -125,6 +125,21 @@
         "dutyCycle"
       ],
       "collection": "BruControl Cards"
+    },
+    {
+      "id": "63288bdf-7785-4d30-abbd-9fa1538e9bfd-beta",
+      "name": "ElevenLabs Text to Speech",
+      "version": "1.1.1",
+      "commitHash": "2b03610f4030d43e9328152464c2c516f31cdf3f",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "globalVariable-string",
+        "generic"
+      ],
+      "stablePluginId": "63288bdf-7785-4d30-abbd-9fa1538e9bfd"
     },
     {
       "id": "e9956a29-972c-4f64-9caf-3cb8b5ecbb7d",
@@ -264,6 +279,21 @@
         "chart",
         "scriptElement"
       ]
+    },
+    {
+      "id": "f4a2c8e1-6d43-4f91-b2a7-9e3c1d5f7a8b-beta",
+      "name": "Kokoro Text to Speech",
+      "version": "1.0.8",
+      "commitHash": "cac533d17aad6f455f8604253a8057e40e41ed6f",
+      "official": true,
+      "core": false,
+      "beta": true,
+      "tags": [],
+      "supportedTypes": [
+        "globalVariable-string",
+        "generic"
+      ],
+      "stablePluginId": "f4a2c8e1-6d43-4f91-b2a7-9e3c1d5f7a8b"
     },
     {
       "id": "f4a2c8e1-6d43-4f91-b2a7-9e3c1d5f7a8b",

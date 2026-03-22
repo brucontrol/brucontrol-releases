@@ -1,0 +1,18 @@
+{
+  "id": "f4a2c8e1-6d43-4f91-b2a7-9e3c1d5f7a8b",
+  "name": "Kokoro Text to Speech",
+  "author": "BruControl",
+  "description": "Speaks text using Kokoro neural TTS in the browser. Audio is synthesized when text or voice changes so playback can start quickly when speak is set true. Resets speak to false after playback.",
+  "repo": "brucontrol/plugin-library",
+  "path": "element-templates/kokoro-text-to-speech",
+  "version": "1.0.8",
+  "commitHash": "cac533d17aad6f455f8604253a8057e40e41ed6f",
+  "official": true,
+  "beta": true,
+  "tags": [],
+  "supportedTypes": [
+    "globalVariable-string",
+    "generic"
+  ],
+  "stablePluginId": "f4a2c8e1-6d43-4f91-b2a7-9e3c1d5f7a8b"
+}
