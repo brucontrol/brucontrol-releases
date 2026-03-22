@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T18:39:18.829Z",
+  "lastUpdated": "2026-03-22T18:47:49.944Z",
   "plugins": [
     {
       "id": "9f6c2274-c028-4205-bf8c-31e22fe125cd",
@@ -282,8 +282,8 @@
     {
       "id": "1b5cf0f7-72d9-45ea-8f02-89ad303ece44-beta",
       "name": "Kokoro Hosted Text to Speech",
-      "version": "1.0.1",
-      "commitHash": "4cf7d5eeaf2ffcef3bffe78d74827a83b09a2b88",
+      "version": "1.0.2",
+      "commitHash": "d0fced7aa68f52efdd71fe75356539aa84de1f6a",
       "official": true,
       "core": false,
       "beta": true,
